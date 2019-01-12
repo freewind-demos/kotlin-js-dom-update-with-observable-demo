@@ -1,6 +1,7 @@
 buildscript {
     ext.kotlin_version = '1.2.41'
     repositories {
+        mavenLocal()
         jcenter()
     }
     dependencies {
@@ -11,6 +12,7 @@ buildscript {
 apply plugin: 'kotlin2js'
 
 repositories {
+    mavenLocal()
     jcenter()
 }
 
