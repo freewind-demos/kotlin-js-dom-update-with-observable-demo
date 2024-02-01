@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/kotlin-demos/kotlinx-demo#readme",
   "dependencies": {
-    "kotlin": "^1.2.41",
-    "kotlinx-html": "^0.6.10"
+    "kotlin": "1.2.41",
+    "kotlinx-html": "0.6.10"
   }
 }
